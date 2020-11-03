@@ -1,2 +1,4 @@
-# leetcode
-leetcode repo.
+LeetCode
+========
+
+### LeetCode Algorithm
